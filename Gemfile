@@ -5,7 +5,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '~> 5.2', '>= 5.2.3'
 # Use sqlite3 as the database for Active Record
-gem 'devise', '~> 4.2'
+gem 'devise', '~> 4.6', '>= 4.6.2'
 # Use SCSS for stylesheets
 gem 'bootstrap-sass', '~> 3.4'
 gem 'sass-rails', '~> 5.0', '>= 5.0.7'
