@@ -120,6 +120,7 @@ GEM
       nokogiri (~> 1.6)
       rails-deprecated_sanitizer (>= 1.0.1)
 <<<<<<< HEAD
+<<<<<<< HEAD
     rails-html-sanitizer (1.0.4)
       loofah (~> 2.2, >= 2.2.2)
     rails_12factor (0.0.3)
@@ -131,6 +132,8 @@ GEM
       actionpack (= 4.2.11.1)
       activesupport (= 4.2.11.1)
 =======
+=======
+>>>>>>> parent of 8fe1b8b... Make app ready
     rails-html-sanitizer (1.0.3)
       loofah (~> 2.0)
     railties (4.2.5)
@@ -199,9 +202,13 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
 <<<<<<< HEAD
+<<<<<<< HEAD
   pg
   rails (~> 4.2, >= 4.2.11.1)
   rails_12factor
+=======
+  rails (= 4.2.5)
+>>>>>>> parent of 8fe1b8b... Make app ready
 =======
   rails (= 4.2.5)
 >>>>>>> parent of 8fe1b8b... Make app ready
