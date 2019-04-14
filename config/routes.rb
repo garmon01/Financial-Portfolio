@@ -9,7 +9,7 @@ Rails.application.routes.draw do
   root 'pages#home'
   
   get 'profile', to:'pages#profile'
-   
+  
   get 'advisor', to: 'pages#advisor'
   
   # Example of regular route:
